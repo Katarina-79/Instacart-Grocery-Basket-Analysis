@@ -1,7 +1,7 @@
-# Instacart-Grocery-Basket-AnalysisInstacart-Python
+# Instacart-Grocery-Basket-Analysis Instacart-Python
 
 Data Analysis project conducted in Python for Career Foundry Data Analytics Program.
-Objective
+## Objective
 
 Instacart is an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns.
 
